@@ -1,0 +1,22 @@
+{
+  "name": "mybitch",
+  "version": "1.0.0",
+  "description": "My First Application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DigitalNomadJoes/MyBitch.git"
+  },
+  "keywords": [
+    "app"
+  ],
+  "author": "Joe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DigitalNomadJoes/MyBitch/issues"
+  },
+  "homepage": "https://github.com/DigitalNomadJoes/MyBitch#readme"
+}
